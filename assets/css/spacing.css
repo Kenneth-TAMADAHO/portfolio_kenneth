@@ -1,7 +1,7 @@
 /*
 * ----------------------------------------------------------------------------------------
-Author       : Tanvir Hossain
-Template Name: Kenneth - Premium Portfolio Template
+Author       : Kenneth Tamadaho
+Template Name: Kenneth - Premium Portfolio
 Version      : 1.0                                          
 * ----------------------------------------------------------------------------------------
 */

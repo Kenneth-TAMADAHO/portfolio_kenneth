@@ -1,7 +1,7 @@
 /*
 * ----------------------------------------------------------------------------------------
-Author       : Tanvir Hossain
-Template Name: Kenneth - Premium Portfolio Template
+Author       : Kenneth Tamadaho
+Template Name: Kenneth - Premium Portfolio
 Version      : 1.0                                          
 * ----------------------------------------------------------------------------------------
 */
@@ -143,6 +143,7 @@ Version      : 1.0
     .section-title h2 {
         font-size: 60px;
         line-height: 70px;
+        margin-left: 30px;
     }
 
     .fixed-header .main-menu .navbar-collapse li a {
@@ -230,7 +231,7 @@ Version      : 1.0
     }
 
     .single-page-hero-area h2 {
-        font-size: 90px;
+        font-size: 70px;
     }
 }
 
@@ -243,7 +244,7 @@ Version      : 1.0
 
     }
 .single-page-hero-area h2 {
-        font-size: 90px;
+        font-size: 70px;
     }
     .blog-post-caption {
         padding-left: 0;
@@ -261,6 +262,7 @@ Version      : 1.0
 
     h2.about-pre-title {
         margin-bottom: 30px;
+        margin-top: 20px;
     }
 
     .about-counter-part::before {
@@ -291,7 +293,7 @@ Version      : 1.0
     }
 
     .footer-top h2 {
-        font-size: 60px;
+        font-size: 50px;
         line-height: 1.0em;
     }
 
@@ -432,7 +434,7 @@ Version      : 1.0
 
     .hero-content h2 {
 
-        font-size: 70px;
+        font-size: 60px;
     }
 
     .hero-image img {
